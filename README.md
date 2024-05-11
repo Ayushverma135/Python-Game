@@ -14,7 +14,7 @@ Experience the thrill of gaming with our Python game project. Developed using Py
 1. Clone the repository.
 2. Install Python.
 3. Navigate to the project directory.
-4. Run the game.py file.
+4. Run the desired game file.
 
 
 
